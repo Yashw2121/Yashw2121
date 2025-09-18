@@ -1,16 +1,61 @@
-## Hi there 👋
+## Hi there 👋, I'm Yash Waghmare
+ 
 
-<!--
-**Yashw2121/Yashw2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at **Wadia College of Engineering, Pune** | 💻 Passionate about Web Development, Data Science & Machine Learning | 🚀 Exploring full-stack and AI-driven projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+🎓 Computer Engineering student at **Wadia College of Engineering, Pune**  
+💡 Passionate about building web apps, solving real-world problems, and exploring data science  
+🛠️ Skilled in **Java, Python, C++, JavaScript, React.js, MongoDB, MySQL**  
+🤖 Experienced with **machine learning models** and deploying them using **Flask**  
+🌱 Currently exploring: **DevOps tools, System Design, and Advanced ML models**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+`Python` | `Java` | `C++` | `JavaScript` | `PHP` | `SQL`  
+
+**Frontend:**  
+`HTML` | `CSS` | `React.js`  
+
+**Backend:**  
+`Node.js` | `Express.js` | `Flask` | `PHP`  
+
+**Database:**  
+`MySQL` | `MongoDB`  
+
+**Data Science:**  
+`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn`  
+
+**Tools:**  
+`Git` | `GitHub` | `Docker` | `VS Code` | `Postman` | 'Dbeaver'
+
+---
+
+## 🚀 Projects  
+
+### 🎬 [Movie Recommendation System](Data Science Project)  
+A Flask-based ML web app recommending movies using **TF-IDF** and **cosine similarity**.  
+🔗 [GitHub Repo](https://github.com/Yashw2121/Movie-Recommendation-System)  
+
+### 🍴 Food Pre-Order System (Ongoing Internship Project)  
+A full-stack system for pre-ordering meals with user dashboards, vendor integration, and payment gateway.  
+  
+
+---
+
+## 📫 Connect With Me  
+
+📧 Email: **yashw6502@gmail.com**    
+💼 LinkedIn: [Yash Waghmare](https://www.linkedin.com/in/yash-waghmare-)  
+🧑‍💻 GitHub: [Yashw2121](https://github.com/Yashw2121)  
+
+---
+
+✨ *“Code. Debug. Learn. Repeat.”*  
+
+
