@@ -1,14 +1,14 @@
 ## Hi there 👋, I'm Yash Waghmare
  
 
-🎓 Computer Engineering student at **Wadia College of Engineering, Pune** | 💻 Passionate about Web Development, Data Science & Machine Learning | 🚀 Exploring full-stack and AI-driven projects  
+ 💻 Passionate about Web Development, Data Science & Machine Learning | 🚀 Exploring full-stack | Backend Engineer    
 
 ---
 
 ## 🧑‍💻 About Me
 🎓 Computer Engineering student at **Wadia College of Engineering, Pune**  
 💡 Passionate about building web apps, solving real-world problems, and exploring data science  
-🛠️ Skilled in **Java, Python, C++, JavaScript, React.js, MongoDB, MySQL**  
+🛠️ Skilled in ** Python, C++, JavaScript, React.js, MongoDB, MySQL**  
 🤖 Experienced with **machine learning models** and deploying them using **Flask**  
 🌱 Currently exploring: **DevOps tools, System Design, and Advanced ML models**  
 
@@ -17,22 +17,22 @@
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-`Python` | `Java` | `C++` | `JavaScript` | `PHP` | `SQL`  
+`Python` | `C++` | `JavaScript` | `PHP` | `SQL`  
 
 **Frontend:**  
 `HTML` | `CSS` | `React.js`  
 
 **Backend:**  
-`Node.js` | `Express.js` | `Flask` | `PHP`  
+`Flask` | `PHP`  
 
 **Database:**  
-`MySQL` | `MongoDB`  
+`MySQL` | `MongoDB` | `MariaDB`
 
 **Data Science:**  
 `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn`  
 
 **Tools:**  
-`Git` | `GitHub` | `Docker` | `VS Code` | `Postman` | 'Dbeaver'
+`Git` | `GitHub` | `VS Code` | `Postman` | `Dbeaver` | `Bitbucket` | `JIRA` | `Confluence`
 
 ---
 
