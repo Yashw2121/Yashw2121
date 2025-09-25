@@ -11,7 +11,46 @@
 
 ---
 
-## 🛠️ Tech Stack **Languages:** Python | C++ | JavaScript | PHP | SQL **Frontend:** HTML | CSS | React.js **Backend:** Flask | PHP **Database:** MySQL | MongoDB | MariaDB **Data Science:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn **Tools:** Git | GitHub | VS Code | Postman | Dbeaver | Bitbucket | JIRA | Confluence
+## 🛠️ Tech Stack  
+
+**Languages:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Frontend:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+**Backend:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,php" />
+</p>
+
+**Database:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+**Data Science:**  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4c78a8?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+**Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bitbucket" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+</p>
 ---
 
 ### 📊 GitHub Stats & Activity  
