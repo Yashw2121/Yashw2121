@@ -11,24 +11,7 @@
 
 ---
 
-### 🛠️ Core Knowledge Graph  
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php" /><br>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,express" /><br>
-  <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux" /><br>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" /><br>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bitbucket" /><br>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
-</p>
-
+## 🛠️ Tech Stack **Languages:** Python | C++ | JavaScript | PHP | SQL **Frontend:** HTML | CSS | React.js **Backend:** Flask | PHP **Database:** MySQL | MongoDB | MariaDB **Data Science:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn **Tools:** Git | GitHub | VS Code | Postman | Dbeaver | Bitbucket | JIRA | Confluence
 ---
 
 ### 📊 GitHub Stats & Activity  
