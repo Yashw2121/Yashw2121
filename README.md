@@ -13,55 +13,67 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" /><br>C++
-  <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
-  <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br>SQL
-</p>
+### 🔹 Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"/><br>PHP</td>
+    <td align="center"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/><br>SQL</td>
+  </tr>
+</table>
 
-**Frontend:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
-  <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
-  <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React.js
-</p>
+### 🎨 Frontend
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br>React.js</td>
+  </tr>
+</table>
 
-**Backend:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask" width="40" /><br>Flask
-  <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
-</p>
+### ⚙️ Backend
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"/><br>PHP</td>
+  </tr>
+</table>
 
-**Database:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br>MongoDB
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /><br>MariaDB
-</p>
+### 🗄️ Database
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
+    <td align="center"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="28"/><br>MariaDB</td>
+  </tr>
+</table>
 
-**Data Science:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>Pandas
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>NumPy
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" /><br>Matplotlib
-  <img src="https://img.shields.io/badge/Seaborn-4c78a8?style=for-the-badge&logo=plotly&logoColor=white" /><br>Seaborn
-  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br>Scikit-learn
-</p>
+### 📊 Data Science
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/><br>Pandas</td>
+    <td align="center"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/><br>NumPy</td>
+    <td align="center"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="28"/><br>Matplotlib</td>
+    <td align="center"><img src="https://img.shields.io/badge/Seaborn-4c78a8?style=for-the-badge&logo=plotly&logoColor=white" height="28"/><br>Seaborn</td>
+    <td align="center"><img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/><br>Scikit-learn</td>
+  </tr>
+</table>
 
-**Tools:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git
-  <img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VS Code
-  <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
-  <img src="https://skillicons.dev/icons?i=bitbucket" width="40" /><br>Bitbucket
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" /><br>DBeaver
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /><br>Jira
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /><br>Confluence
-</p>
+### 🛠️ Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bitbucket" width="40"/><br>Bitbucket</td>
+    <td align="center"><img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" height="28"/><br>DBeaver</td>
+    <td align="center"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28"/><br>Jira</td>
+    <td align="center"><img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="28"/><br>Confluence</td>
+  </tr>
+</table>
 
 ---
 
