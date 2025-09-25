@@ -14,43 +14,55 @@
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" /><br>C++
+  <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
+  <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br>SQL
 </p>
 
 **Frontend:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
+  <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
+  <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React.js
 </p>
 
 **Backend:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,php" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask" width="40" /><br>Flask
+  <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
 </p>
 
 **Database:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br>MongoDB
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /><br>MariaDB
 </p>
 
 **Data Science:**  
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4c78a8?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>Pandas
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>NumPy
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" /><br>Matplotlib
+  <img src="https://img.shields.io/badge/Seaborn-4c78a8?style=for-the-badge&logo=plotly&logoColor=white" /><br>Seaborn
+  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br>Scikit-learn
 </p>
 
 **Tools:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bitbucket" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git
+  <img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VS Code
+  <img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman
+  <img src="https://skillicons.dev/icons?i=bitbucket" width="40" /><br>Bitbucket
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" /><br>DBeaver
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /><br>Jira
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /><br>Confluence
 </p>
+
 ---
 
 ### 📊 GitHub Stats & Activity  
