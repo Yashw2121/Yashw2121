@@ -120,4 +120,8 @@
 
 ---
 
+![Snake
+
+animation](https://github.com/igorprati /igorprati/blob/output/github-contribution -grid-snake.svg)
+
 ✨ *“Code. Debug. Learn. Repeat.”*  
