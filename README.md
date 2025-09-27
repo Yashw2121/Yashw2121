@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Waghmare</h1>
-<h3 align="center">💻 Web Developer | Data Science & ML Enthusiast | Backend Engineer 🚀</h3>
+<h3 align="center">💻 Web Developer | Data Science & ML Enthusiast </h3>
 
 ---
 
