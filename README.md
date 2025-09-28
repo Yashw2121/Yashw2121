@@ -28,7 +28,7 @@
     <td align="center"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/><br>SQL</td>
   </tr>
 </table>
-align the image at right in the about me section
+
 ### 🎨 Frontend
 <table>
   <tr>
