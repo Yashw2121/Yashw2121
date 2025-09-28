@@ -120,8 +120,6 @@
 
 ---
 
-![Snake
-
-animation](https://github.com/igorprati /igorprati/blob/output/github-contribution -grid-snake.svg)
+![snake gif](https://github.com/Yashw2121/Yashw2121/blob/output/github-snake-dark.svg)
 
 ✨ *“Code. Debug. Learn. Repeat.”*  
