@@ -120,6 +120,8 @@
 
 ---
 
-![snake gif](https://github.com/Yashw2121/Yashw2121/blob/output/github-snake-dark.svg)
-
 ✨ *“Code. Debug. Learn. Repeat.”*  
+<div align="centre">
+
+![snake gif](https://github.com/Yashw2121/Yashw2121/blob/output/github-snake-dark.svg)
+</div>
