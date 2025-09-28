@@ -1,22 +1,18 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif" alt="header" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Yash Waghmare</h1>
 <h3 align="center">💻 Web Developer | Data Science & ML Enthusiast 🚀</h3>
 
 ---
 
-### 🚀 About Me  
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>🎓 Computer Engineering student at <b>Wadia College of Engineering, Pune</b></p>
-    <p>💡 Passionate about building web apps, solving real-world problems, and exploring data science</p>
-    <p>🤖 Experienced with <b>Machine Learning models</b> and deploying them with <b>Flask</b></p>
-    <p>🌱 Currently learning: <b>DevOps, System Design, and Advanced ML models</b></p>
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif" alt="coding" width="400"/>
-  </div>
-</div>
-
+### 🚀 About Me
+🎓 Computer Engineering student at **Wadia College of Engineering, Pune**  
+💡 Passionate about building web apps, solving real-world problems, and exploring data science  
+🤖 Experienced with **Machine Learning models** and deploying them with **Flask**  
+🌱 Currently learning: **DevOps, System Design, and Advanced ML models**  
 
 ---
 
@@ -32,7 +28,7 @@
     <td align="center"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/><br>SQL</td>
   </tr>
 </table>
-
+align the image at right in the about me section
 ### 🎨 Frontend
 <table>
   <tr>
