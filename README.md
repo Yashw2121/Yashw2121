@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif" alt="header" width="100%" />
-</p>
+</p> -->
 
 
 <h1 align="center">Hi 👋, I'm Yash Waghmare</h1>
